@@ -1,4 +1,4 @@
-#  Securit√© Web et Mobile avec JWT ( json web token ) et Spring security avec Base donn√©s ( user/password/role)
+# spring SecuritÈ JWT avec un microservice d'authentification ( mysql user/role ) microservice application ( mongodb produits, categories) 
 
 
 
@@ -9,6 +9,15 @@ Ce projet consiste ‡ creer un service d'authentification unique ( SSO)  avec des
 - Le microSevice avec la base mysql gere les utilisateurs et role.
 - Le microService avec la base mongodb gere la partie applicative ( categories et produits).
 ![xxxxxxxxx](doc/images/introduction/projets.jpg)
+
+
+![xxxxxxxxx](doc/images/introduction/login.jpg)
+
+
+![xxxxxxxxx](doc/images/introduction/get.jpg)
+
+
+**Le projet angular ne fonctionne pas.**
 
 
 https://www.youtube.com/watch?v=1BlJeu-Q4dk&list=PLMgAr-DXdLC1F3p7KbFHEFCinUyvSfgOK
